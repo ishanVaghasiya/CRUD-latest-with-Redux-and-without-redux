@@ -1,0 +1,10 @@
+// send data as props from child which needed by parent
+//then access that props in parent by usinf a funaction 
+
+
+
+//in parent
+    // -- create a funcation with arg cuse this arg help to get data from child
+
+// in child 
+   // -- give data to props as arg 
